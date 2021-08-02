@@ -1,0 +1,7 @@
+@font-face {
+  font-family: "hkgokukaikk";
+  src: local("hkgokukaikk"),
+    url("../fonts/hkgokukaikk.ttf") format("truetype");
+  font-weight: normal;
+}
+
